@@ -66,5 +66,5 @@ Profitability analysis revealed that many transactions generated losses despite 
 
 ## Author
 
-Bhagya
-Aspiring Business Analyst**
+Bhagyalakhsmi S
+Business Analyst
