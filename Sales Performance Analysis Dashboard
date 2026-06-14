@@ -1,0 +1,50 @@
+# Sales Performance Analysis Dashboard
+
+## Project Overview
+
+This project analyzes company sales data to evaluate business performance across regions, product categories, and sales representatives.
+
+The analysis focuses on identifying revenue drivers, profit trends, regional performance, and sales opportunities.
+
+## Business Objective
+
+To improve profitability by understanding:
+
+- Sales performance by region
+- Product category contribution
+- Sales representative effectiveness
+- Revenue and profit trends
+- High-performing and underperforming segments
+
+## Dataset Fields
+
+- Product ID
+- Sales Date
+- Sales Representative
+- Region
+- Sales Amount
+- Quantity Sold
+- Product Category
+- Unit Cost
+- Unit Price
+- Profit
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+
+## Key Insights
+
+- Top Revenue Region
+- Top Performing Sales Representative
+- Most Profitable Product Category
+- Monthly Sales Trend
+- Loss Making Areas
+
+## Author
+
+Bhagyalakshmi S
+Business Analyst
