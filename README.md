@@ -60,6 +60,10 @@ To improve profitability by understanding:
 - Monthly Sales Trend
 - Loss Making Areas
 
+## Business issue
+
+Profitability analysis revealed that many transactions generated losses despite strong sales revenue. Further investigation into pricing strategy, discounts, procurement costs, and operational expenses is recommended.
+
 ## Author
 
 Bhagya
